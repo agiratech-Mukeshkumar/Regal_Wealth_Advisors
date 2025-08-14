@@ -1,0 +1,15 @@
+.footer-container {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-top: 10px; 
+    z-index: 1;
+}
+.footer-container a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-container a:hover {
+    text-decoration: underline;
+}
